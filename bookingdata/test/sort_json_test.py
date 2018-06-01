@@ -12,9 +12,11 @@ class SortJsonTest(unittest.TestCase):
         print("Tear down was done")
         pass
 
-    def runTest(self):
-        # Default test run when Class is called with its constructor
-        print("The default test was run.")
+    def test_A(self):
+        print("Test A")
+
+    def test_B(self):
+        print("Test B")
 
 
 if __name__ == '__main__':
