@@ -2,3 +2,6 @@ dev/
 location/
 availability/
 .vscode/
+bookingdata/sorted.json
+bookingdata/notes
+bookingdata/bookingdata.md
